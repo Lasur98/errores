@@ -1,4 +1,4 @@
 # errores
 Fichero de prueba para comprobar errores
 
-Prueba de fallo desde linea de comandos
+12:35 Cambio desde cli
