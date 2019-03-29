@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 nbisbvhvfsbdjibvfjis
 
 12:50 Cambios desde el eclipse
+=======
+nbisbvhvfsbdjibvfjis
+
+12:49 Cambio desde la web
+>>>>>>> branch 'master' of https://github.com/Lasur98/errores
+
+12:51 Cambio definitivo desde eclipse
